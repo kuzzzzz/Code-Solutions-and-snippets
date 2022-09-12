@@ -9,3 +9,5 @@ var twoSum = function (nums, target) {
     }
   }
 };
+console.log("yams");
+twoSum([2, 3, 1, 4, 6, 79, 1, 2, 3, 4, 5], 9);
