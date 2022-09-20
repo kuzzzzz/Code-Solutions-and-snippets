@@ -1,0 +1,4 @@
+There are many ways to solve this one but the first solution 
+I am adding here is the dynamic programming solution and 
+then I will also add the two pointer approach
+
