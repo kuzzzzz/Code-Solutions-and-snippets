@@ -1,0 +1,5 @@
+although this is a trivail problem realising the usefullnees of suming the array
+and using it in between loops is super important 
+
+can't really wirte a proper explanation why the above is important but I want future 
+you to realise sum and modulo operations are super important
