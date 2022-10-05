@@ -5,3 +5,7 @@ Also try and create list module  classes
 leetcode daily challenge solution qes.{ }
 
 // Resources 
+
+//Review the path-sum-II-113 challenge and try to fix the bug
+//That makes the result array return only one set of array instead of all arrays of all possible path 
+//That will sum up to target 

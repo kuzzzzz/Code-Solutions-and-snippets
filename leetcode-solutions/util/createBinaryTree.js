@@ -4,8 +4,7 @@ function TreeNode(val, left, right) {
   this.right = right === undefined ? null : right;
 }
 
-
-module.exports = function insertLevelOrder(arr, i) {
+ function insertLevelOrder(arr, i) {
   let root = null;
   // Base case for recursion
   if (i < arr.length) {
@@ -19,4 +18,9 @@ module.exports = function insertLevelOrder(arr, i) {
     root.right = insertLevelOrder(arr, 2 * i + 2);
   }
   return root;
+};
+
+module.exports = {
+  TreeNode,
+  insertLevelOrder,
 };
