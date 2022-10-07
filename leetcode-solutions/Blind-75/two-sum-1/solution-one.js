@@ -1,13 +1,16 @@
 var twoSum = function (nums, target) {
-  for (let r = 0; r < nums.length; r++) {
-    let s = 0;
-    while (s < r) {
-      if (nums[s] + nums[r] == target) {
-        return [s, r];
-      }
-      ++s;
+  let map = {};
+  for (let i = 0; i < nums.length; i++) {
+    const sum = target - nums[i];
+    if (map[parseInt(sum)] !== undefined) {
+      //fancy was for checking for undefined is void 0
+      return [map[sum], i];
+    } else {
+      map[nums[i]] = i;
     }
   }
 };
-console.log("yams");
-twoSum([2, 3, 1, 4, 6, 79, 1, 2, 3, 4, 5], 9);
+
+//Test cases
+let res = twoSum([2, 3, 1, 4, 6, 79, 1, 2, 3, 4, 5], 9);
+console.log(res);
