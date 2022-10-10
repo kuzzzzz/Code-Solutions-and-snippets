@@ -20,3 +20,5 @@ var threeSumClosest = function (nums, target) {
 threeSumClosest([-1, 2, 1, -4], 1);
 
 threeSumClosest([0, 0, 0], 1);
+
+//review que-16

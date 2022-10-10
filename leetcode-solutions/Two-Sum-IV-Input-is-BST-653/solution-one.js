@@ -1,5 +1,5 @@
 debugger;
-const insertLevelOrder = require("../util/createBinaryTree");
+const {insertLevelOrder} = require("../util/createBinaryTree");
 
 var findTarget = function (root, k) {
   let set = new Set();
@@ -19,5 +19,5 @@ let binTree = insertLevelOrder(arr, 0);
 let arr1 = [5, 3, 6, 2, 4, null, 7];
 let binTree1 = insertLevelOrder(arr1, 0);
 
-findTarget(binTree, 9);
-findTarget(binTree1, 28);
+console.log(findTarget(binTree, 9));
+console.log(findTarget(binTree1, 28));
