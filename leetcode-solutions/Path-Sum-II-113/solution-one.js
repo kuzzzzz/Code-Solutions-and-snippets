@@ -1,5 +1,5 @@
 debugger;
-const insertLevelOrder = require("../util/createBinaryTree");
+const { insertLevelOrder } = require("../util/createBinaryTree");
 
 let pathSum = function (root, targetSum) {
   if (!root) return [];
@@ -40,4 +40,4 @@ let r = pathSum(binTree, 22);
 let v = pathSum(binTree, 22);
 
 // There's a bug in this result it, return only one val in the array instead of two
-console.log(r,v);
+console.log(r, v);

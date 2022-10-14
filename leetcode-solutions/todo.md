@@ -1,6 +1,3 @@
-Review code challenges from Saturday and Sunday
-Also try and create list module  classes
-
 // git commit msg template 
 leetcode daily challenge solution qes.{ }
 
@@ -12,5 +9,3 @@ leetcode daily challenge solution qes.{ }
 // That will sum up to target 
 
 //Take another look at ques 16 from sat night
-
-//Reiview question 237 from thur 13th
