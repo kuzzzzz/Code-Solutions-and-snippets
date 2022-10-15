@@ -9,3 +9,8 @@ leetcode daily challenge solution qes.{ }
 // That will sum up to target 
 
 //Take another look at ques 16 from sat night
+
+//To Review
+// Path-sum-II-113-see reason above
+// 3sum-closest-16-sat night-8th
+// String Compression-II 1531-sat night-15th
