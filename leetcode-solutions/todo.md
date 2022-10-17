@@ -14,3 +14,6 @@ leetcode daily challenge solution qes.{ }
 // Path-sum-II-113-see reason above
 // 3sum-closest-16-sat night-8th
 // String Compression-II 1531-sat night-15th
+
+// Review 1335. Minimum Difficulty of a Job Schedule-from sun 16th 
+
