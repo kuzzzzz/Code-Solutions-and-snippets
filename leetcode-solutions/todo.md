@@ -1,6 +1,8 @@
 // git commit msg template 
 leetcode daily challenge solution qes.{ }
 
+//Add quesion description
+
 // Resources 
 
 // Review the path-sum-II-113 challenge and try to fix the bug
