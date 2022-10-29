@@ -20,6 +20,10 @@ leetcode daily challenge solution qes.{ }
 // Review 1335. Minimum Difficulty of a Job Schedule-from sun 16th 
 // if you can review 645
 
+// Review 2136. Earliest Possible Day of Full Bloom
+
+
+
 //------Interesting questions--------//
 // Count-and-say-38
 // Image Overlap 835
