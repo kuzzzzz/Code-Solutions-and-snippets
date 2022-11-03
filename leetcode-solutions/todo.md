@@ -24,6 +24,9 @@ leetcode daily challenge solution qes.{ }
 
 // Review 766 easy
 
+//Review  2131
+
+
 // 1293. Shortest Path in a Grid with Obstacles Elimination
 
 
