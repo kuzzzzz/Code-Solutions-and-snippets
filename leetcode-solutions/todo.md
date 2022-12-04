@@ -1,5 +1,5 @@
 // git commit msg template 
-leetcode daily challenge solution qes.{ }
+leetcode daily challenge solution qes.{2256 }
 
 //------To TODO--------///
 //Add quesion description
