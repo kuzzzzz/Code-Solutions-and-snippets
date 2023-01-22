@@ -24,3 +24,9 @@ function backtrack(res, s, curr = [], i = 0) {
     curr.pop();
   }
 }
+
+let res1 = restoreIpAddresses('123979230230')
+let res2 = restoreIpAddresses('1223023023')
+let res3 = restoreIpAddresses('1&993')
+
+console.log(res1,res2,res3)
